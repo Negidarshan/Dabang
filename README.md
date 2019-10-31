@@ -2,3 +2,4 @@
 dangerous
 hero
 fighter
+actor
